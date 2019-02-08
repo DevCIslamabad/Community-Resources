@@ -1,7 +1,37 @@
 # Community-Resources
 
 - Curated resources from the Facebook Team [Developer Circle Resources](http://www.developercircleresources.com 'Developer Circle Resources')
+- Curated resources from the Developer Circle Islamabad Team: 
 
+# Data Science Resources Resources
+
+1. [Comprehensive Data Science Curriculum](https://medium.freecodecamp.org/the-best-data-science-courses-on-the-internet-ranked-by-your-reviews-6dc5b910ea40)
+
+## Computer Science Fundamentals
+1. [Introduction to Computer Science Harvardx](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)
+
+## Statistics
+1. [Harvard University Video Lectures - Statistics 110](https://www.youtube.com/watch?v=KbB0FjPg0mw&t=0s&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo&index=1)
+1. [Statistical Inference](https://www.coursera.org/learn/statistical-inference)
+1. [Statistical Inference and Modeling for High-throughput Experiments](https://www.edx.org/course/statistical-inference-modeling-high-harvardx-ph525-3x-1)
+1. [Statistical Thinking for Data Science and Analytics ColumbiaX](https://www.edx.org/course/statistical-thinking-for-data-science-and-analytics)
+1. [Crash Course Statistics](https://www.youtube.com/watch?v=zouPoc49xbk&list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr)
+1. [Probability and Statistics](https://lagunita.stanford.edu/courses/course-v1:OLI+ProbStat+Open_Jan2017/about
+)
+## R
+1. [R for begginners](https://www.youtube.com/watch?v=fDRa82lxzaU)
+1. [Online R Programming Course for Data Science Beginners Harvardx](https://learn.edx.org/harvard-r-basics/)
+1. [Introduction to R for Data Science](https://www.edx.org/course/introduction-r-data-science-3)
+
+## Python
+1. [Data Camp Intro to Python](https://www.datacamp.com/courses/intro-to-python-for-data-science)
+1. [Google introduction to Python](https://developers.google.com/edu/python/introduction)
+1. [Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110)
+1. [Codeacademy-Python](https://www.udacity.com/course/introduction-to-python--ud1110)
+
+## SQL - Structured Query Language
+1. [Code Academy Learn SQL](https://www.codecademy.com/learn/learn-sql)
+1.[DataCamp Intro to SQL](https://www.datacamp.com/courses/intro-to-sql-for-data-science)
 
 # Machine learning Related Resources
 
