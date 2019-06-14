@@ -45,7 +45,7 @@
 ## Deep Learning
 
 1. [Deep Learining](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu 'Oxford University|Deep Learning')
-
+2. [Udacity Deep Learning with Pytorch](https://classroom.udacity.com/courses/ud188 'Udacity Deep Learning with Pytorch')
 
 
 
