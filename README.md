@@ -48,4 +48,15 @@
 2. [Udacity Deep Learning with Pytorch](https://classroom.udacity.com/courses/ud188 'Udacity Deep Learning with Pytorch')
 
 
+# Learn-To-Code Resource
 
+1. [Code Wars](https://www.codewars.com/, 'Code Wars')
+2. [Hacker Rank](https://www.hackerrank.com/, 'Hacker Rank')
+3. [Hacker Earth](https://edabit.com/, 'Edabit')
+4. [Hacker Earth](https://www.hackerearth.com/, 'Hacker Earth')
+5. [Coding Bat](https://codingbat.com/java, 'Coding Bat')
+6. [Python Principles](https://pythonprinciples.com/challenges/, 'Python Principles')
+7. [Techie Delight](https://www.techiedelight.com/list-of-problems/, 'Techie Delight')
+8. [Leet Code](https://leetcode.com/, 'Leet Code')
+9. [Kattis Problem Archive](https://open.kattis.com/, 'Kattis Problem Archive')
+10. [Codin Game](https://www.codingame.com/start, 'Codin Game')
