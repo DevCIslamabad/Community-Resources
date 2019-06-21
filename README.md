@@ -48,7 +48,7 @@
 2. [Udacity Deep Learning with Pytorch](https://classroom.udacity.com/courses/ud188 'Udacity Deep Learning with Pytorch')
 
 
-# Learn-To-Code Resource
+## Competitive Programming Test Sites
 
 1. [Code Wars](https://www.codewars.com/, 'Code Wars')
 2. [Hacker Rank](https://www.hackerrank.com/, 'Hacker Rank')
@@ -60,3 +60,34 @@
 8. [Leet Code](https://leetcode.com/, 'Leet Code')
 9. [Kattis Problem Archive](https://open.kattis.com/, 'Kattis Problem Archive')
 10. [Codin Game](https://www.codingame.com/start, 'Codin Game')
+
+CodeChef (http://codechef.com/)
+LeetCode (http://leetcode.com/)
+Topcoder (http://topcoder.com/)
+Kaggle (http://kaggle.com/)
+ChallengePost (http://challengepost.com/)
+CodeForces (http://codeforces.com/)
+Brilliant (http://brilliant.org/)
+SPOJ (http://www.spoj.com/)
+Project Euler (https://projecteuler.net/)
+Codility (https://codility.com/)
+Codingame (https://www.codingame.com/)
+CoderByte (https://coderbyte.com/)
+CodeEval (https://www.codeeval.com/)
+UVA Online Judge (https://uva.onlinejudge.org/)
+CodeFights (https://codefights.com/)
+CheckiO (http://www.checkio.org/)
+Talentbuddy (http://talentbuddy.co/)
+PythonChallenge (http://pythonchallenge.com/)
+LintCode (http://www.lintcode.com/en/)
+Rosalind (http://rosalind.info/problems/locations/)
+CrowdANALYTIX (https://www.crowdanalytix.com/)
+SQL-EX.RU (http://sql-ex.ru/)
+Kattis (http://www.kattis.com/)
+CodeKata (http://codekata.com/)
+CodeAbbey (http://codeabbey.com/)
+FightCode (http://fightcodegame.com/)
+BeatMyCode (http://www.beatmycode.com/)
+TunedIT (http://tunedit.org/)
+MLComp (http://mlcomp.org/)
+HPC University (http://hpcuniversity.org/students/weeklyChallenge/)
